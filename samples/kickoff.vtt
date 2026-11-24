@@ -1,0 +1,43 @@
+WEBVTT
+
+NOTE Sample transcript with made-up people. Same shape as a Teams .vtt export.
+
+a1b2/1-0
+00:00:02.100 --> 00:00:07.400
+<v Ortiz, Dana (Guest)>Thanks everyone. This is the kickoff for the purchase request portal.</v>
+
+a1b2/2-0
+00:00:07.400 --> 00:00:15.900
+<v Ortiz, Dana (Guest)>We need the request form to capture the cost center and the approving manager.</v>
+
+a1b2/3-0
+00:00:16.200 --> 00:00:24.000
+<v Sam Whitfield>Agreed. The portal must route anything over five thousand dollars to finance for a second approval.</v>
+
+a1b2/4-0
+00:00:24.300 --> 00:00:31.800
+<v Sam Whitfield>Do we know if finance wants email alerts or a queue in the portal?</v>
+
+a1b2/5-0
+00:00:32.000 --> 00:00:41.500
+<v Priya Raman>For the pilot we decided to use the existing single sign-on, so no new accounts. Let's go with that.</v>
+
+a1b2/6-0
+00:00:41.900 --> 00:00:49.200
+<v Speaker 3>I'll draft the approval matrix and share it by Friday.</v>
+
+a1b2/7-0
+00:00:49.500 --> 00:00:57.000
+<v Priya Raman>Requesters should be able to attach a vendor quote as a PDF.</v>
+
+a1b2/8-0
+00:00:57.300 --> 00:01:03.800
+<v Dana O.>Priya, can you check whether the ERP exposes cost centers through an API?</v>
+
+a1b2/9-0
+00:01:04.000 --> 00:01:09.000
+<v +1 555 0100>Sorry, I joined late from my phone.</v>
+
+a1b2/10-0
+00:01:09.300 --> 00:01:15.600
+<v Sam Whitfield>Okay. Next meeting is the same time next week.</v>

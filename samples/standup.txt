@@ -1,0 +1,3 @@
+[00:00:05] Dana Ortiz: Quick one today. The export to the finance team has to include the PO number.
+[00:00:12] Lee Novak: I'll update the export script tomorrow.
+[00:00:20] Sam Whitfield: Is the PO number mandatory for every request?

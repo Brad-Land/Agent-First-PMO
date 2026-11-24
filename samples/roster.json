@@ -1,0 +1,11 @@
+{
+  "people": [
+    {"id": "p-dana", "name": "Dana Ortiz", "email": "dana.ortiz@example.com", "aliases": ["Dana O."]},
+    {"id": "p-sam", "name": "Sam Whitfield", "email": "sam.whitfield@example.com", "aliases": []},
+    {"id": "p-priya", "name": "Priya Raman", "email": "priya.raman@example.com", "aliases": ["PR"]},
+    {"id": "p-lee", "name": "Lee Novak", "email": "lee.novak@example.com", "aliases": []}
+  ],
+  "overrides": {
+    "Speaker 3": "p-lee"
+  }
+}
